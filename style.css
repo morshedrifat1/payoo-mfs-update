@@ -1,0 +1,19 @@
+body{
+    font-family: "Outfit", serif;
+}
+
+
+
+.border-wrong{
+    border: 1px solid red;
+}
+
+section>div{
+    padding: 0px 20px;
+}
+
+.card-active{
+    background-color: #f3f8fe;
+    border: 1px solid red;
+    color: blue; 
+}
